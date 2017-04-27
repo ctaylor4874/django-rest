@@ -120,3 +120,4 @@ Temporary Items
 .dropbox
 .dropbox.attr
 .dropbox.cache
+/django_rest_project/db.sqlite3
